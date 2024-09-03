@@ -10,6 +10,8 @@ It opens (or creates) file3.txt for writing.
 The contents of file1.txt are read and written to file3.txt.
 The contents of file2.txt are then appended to file3.txt.
 If any of the files cannot be opened, the program will print an error message and exit.
+
+
 Usage
 Clone the repository or copy the source code.
 Make sure you have the files file1.txt and file2.txt in the same directory as the program.
