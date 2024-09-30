@@ -23,7 +23,7 @@ if (fp1 == NULL || fp2 == NULL || fp3 == NULL)
 
 // Copy contents of first file to file3.txt
 while ((c = fgetc(fp1)) != EOF)
-	fputc(c, fp3);
+	fputc(c,p3);
 
 // Copy contents of second file to file3.txt
 while ((c = fgetc(fp2)) != EOF)
